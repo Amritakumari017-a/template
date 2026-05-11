@@ -39,4 +39,4 @@ This project is designed to practice frontend web development concepts such as f
 - Convert into a complete portfolio website
 
 ## Author
-Amrita Singh
+Amrita Kumari
